@@ -1,4 +1,4 @@
-# 08-express
+
 ### Samsung Desarrolladoras - Práctica 08 API REST con Express
 
 En esta práctica se debe modificar el proyecto sobre un API CRUD elaborado en la nota técnica 7.10, para utilizar una agenda de datos personales más completa, incluyendo más datos sobre las personas y validándolos:
